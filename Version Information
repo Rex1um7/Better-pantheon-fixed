@@ -1,0 +1,72 @@
+04-10-2022 (Initial Prototype)
+Very, very basic version; functional but crude 
+
+06-10-2022 (Version 0.1)
+Complete rebuild of the entire Beliefs.json from the ground up, additional buildings added; general rework of religion in general.
+
+07-10-2022 (Version 0.3 initial release)
+Let's. Heccin. GOOOOOOOOOO-!
+
+Known issues: Images need compiling, none of the Wonders have quotes yet, whatever Day Zero fixes I'll be doing once I get all this in game.
+
+08-10-2022 (Version 0.4) 
+*Numerous* bugs squashed; wasn't incriminating that because I was going through builds too quickly
+Incrementing to 0.4 because I added a modOptions.json to (hopefully) remove the depricated Beliefs.
+Now if only I knew why half of the things don't show up, and why the buy with faith stuff isn't showing up.
+
+11-10-2022 (Version 0.4.1)
+Fixed "a metric ton" of uncaught errors because the mod test *doesn't test things against the stock rulesets automatically like it should* 
+Hopefully things will *mostly* actually *work* now.
+
+13-10-2022 (Version 0.4.2)
+Fixed *more* uncaught errors (thanks to carriontrooper for nailing a couple of those)
+Attempting to make the extra Beliefs when founding and enhancing religions actually work by putting them in modOptions; the original workaround
+that modified the Palace has been depricated.
+
+13-10-2023 (Version 0.4.3) (later in the day)
+Restored palace modification *with the right syntax this time;* now actually working as intended.
+That's enough to increment by itself. Getting closer to not having any glitches in the base package lads!
+Unfortunately I also had to remove Religious Practice because *apparently* you can't put follower beliefs in with just Pantheon level religions
+For some reason.  * Confused face *
+
+15-10-2022 (Version 0.4.4)
+Squashed minor syntax error in Sacred Seas that wasn't calling Crab correctly, should work now.
+
+12-11-2022 (Version 0.4.5)
+Fixed spelling error in Harmonious Existence, should be able to actually build Shangri La now.
+
+12-11-2022 (Version 0.5) (TwoHoursLater.jpg)
+Updated all the Gods with special effects. Stand by for bug smashing.
+
+12-11-2022 (Version 0.5.1) (A_Short_Time_Later.jpg)
+Syntax error with Love God's mechanic squashed. Initial mechanics for God of Protection, Goddess of Protection, and Goddess of War changed, as the initial thoughts didn't work as was.
+All systems should now function (other than images, naturally.)
+(Also on that note I fixed a couple that were still the beeg 500x500+ images, into 80x80 like the rest.)
+
+12-11-2022 (Version 0.5.2) (AnotherTwoHoursLater.jpg)
+Fixed previously uncaught name mismatches in God of Craftsman and Ceremonial Burial that keept you from being able to buy their respective buildings.
+
+13-11-2022 (Version 0.5.3)
+Squashed *yet another* uncaught name mismatch, in pilgrimage this time. Hopefully I won't find many more of these, arg.
+
+14-11-2022 (Version 0.5.4)
+*Arrrrrrrrrrrrrrrrggggghhhhhhhhhh*
+(more name mismatches fixed.)
+
+16-11-2022 (Version 0.5.5)
+Fixed previously uncaught errors in the environment shrines that made them not work right. Should work as intended now.
+
+04-12-2022 (Version 0.6)
+MAJOR UPDATE: restored original building restrictions to Religious Wonders now that the necessary Unique is using buildingFilter properly
+This has also necessarily required some minor background tweaking; as follows:
+* Enhancer specific Pilgrimage buildings are not National Wonders anymore because you can build more than one of them as originally intended; looking for solutions to make those properly interact with the standard Wonder mechanics at this time,
+* Founder specific Religious World Wonders are no longer restricted to Holy Cities (which, yes, means you can now build more than one per civ)
+* Founder Beliefs also now give access to a Religious Wonder (as you have to have at least one to build a Religious World Wonder)
+We have also changed the Basic set from only enhancing Shrines to enhancing all Agnostic Religious buildings (the vanilla ones, in other words),
+And have added a Science version (Natural Philosophy/Theology) and a new building to go with it (the Sage's Lodge) so be aware of that option.
+
+Stand by for day zero bug fixing.
+
+05-12-2023 (Version 0.5.6)
+Rolled back use of restrictions, because it's still not working
+In that the mod test no longer throws a snit, but the game itself does and crashes whenever you open a city menu.
