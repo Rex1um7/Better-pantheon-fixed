@@ -987,11 +987,11 @@
 		"culture": 1,
 		"faith": 8,
 		"uniques": [
-                           "Requires a [Temple] in all cities", 
+                           "Only avaliable <if [Temple] is constructed in all [non-[Puppeted]] cities>", 
                            "Cost increases by [30] per owned city",
 			   "[+100]% Natural religion spread [in this city]", 
                            "Hidden when religion is disabled", 
-                           "Can only be built [in holy cities]",
+                           "Can only be built <in [in holy cities] cities>",
                            "Religious Wonder", "Agnostic"
                            ],
 		"requiredTech": "Theology",
