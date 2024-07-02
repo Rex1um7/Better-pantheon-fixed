@@ -628,7 +628,7 @@
                 "[+2 Science] from every [Enhanced Religion]",
                 //"Only available <if [Enhanced Religion] is constructed in at least [5] of [All] cities>",
                 //"Only available <if [Harmony] is constructed in at least [3] of [All] cities>", 
-                "Only available <if [Temple Contemplation] is constructed in at least [3] of [All] cities>", 
+                "Only available <if [Temple of Contemplation] is constructed in at least [3] of [All] cities>", 
                 "Unbuildable", 
                 "Never destroyed when the city is captured",
                 "Hidden when religion is disabled",
