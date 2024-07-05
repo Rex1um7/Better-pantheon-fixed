@@ -304,8 +304,7 @@
      "uniques": [
                 "May buy [Cult of the Warrior] buildings for [10] [Faith] [in cities following this religion] at an increasing price ([5])",
                 "May buy [Basic Pantheon] buildings for [1] [Faith] [in capital] <before the [Renaissance era]>",
-//                "May buy [Religious Practice] buildings for [1] [Faith] [in capital] <before the [Renaissance era]>",
-                "New [Military] units start with [+5] Experience [in cities following this religion]"
+//                "May buy [Religious Practice] buildings for [1] [Faith] [in capital] <before the [Renaissance era]>"
                 ]
   },
   {
@@ -629,8 +628,7 @@
      "name": "War God",//"God of War",
      "type": "Founder",
      "uniques": [
-                 "May buy [Cult of the Warrior] buildings for [10] [Faith] [in cities following this religion] at an increasing price ([5])",
-                 "New [Military] units start with [+5] Experience [in cities following this religion]"
+                 "May buy [Cult of the Warrior] buildings for [10] [Faith] [in cities following this religion] at an increasing price ([5])"
                 ]
   },
   {
