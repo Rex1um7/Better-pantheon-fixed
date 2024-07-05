@@ -2,15 +2,13 @@
   {
     "name": "Warrior Cult",
     "uniques": [
-               "Earn [25]% of the damage done to [Military] units as [Faith]",
-               "[+15]% XP gained from combat",
+               "Earn [35]% of the damage done to [Military] units as [Faith]",
                "Can move immediately once bought"
                ]
   },
   {
     "name": "Hunter Cult",
     "uniques": [
-               "[+1] Sight", 
                "[+1] Movement",
                "Can move after attacking"
                ]
@@ -19,7 +17,7 @@
     "name": "Hunting Rites",
     "uniques": [
                "[+1] Range",
-               "May withdraw before melee ([50]%)",
+               "May withdraw before melee ([30]%)",
                "Ranged attacks may be performed over obstacles"
                ]
   },
