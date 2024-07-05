@@ -266,6 +266,7 @@
      "faith": 1,
      "uniques": [
                 "All newly-trained [Military] units [in this city] receive the [Warrior Cult] promotion",
+	        "New [Military] units start with [4] Experience [in all cities]",
                 "Unbuildable", 
                 "Hidden when religion is disabled",
                 "Basic Religion", "Deific"
