@@ -212,9 +212,9 @@
                 "[+1 Culture] from every [Wheat]",
                 "[+1 Culture] from every [Truffles]",
                 "[+1 Culture] from every [Deer]",
-                "[20]% Yield from every [Wheat]",
-                "[20]% Yield from every [Truffles]",
-                "[20]% Yield from every [Deer]",
+                "[+20]% Yield from every [Wheat]",
+                "[+20]% Yield from every [Truffles]",
+                "[+20]% Yield from every [Deer]",
                 "May buy [Feasting Hall] buildings for [10] [Faith] [in cities following this religion] at an increasing price ([5])",
                 "May buy [Basic Pantheon] buildings for [1] [Faith] [in capital] <before the [Renaissance era]>",
 //                "May buy [Religious Practice] buildings for [1] [Faith] [in capital] <before the [Renaissance era]>"
@@ -227,9 +227,9 @@
                 "[+1 Culture] from every [Sheep]",
                 "[+1 Culture] from every [Cattle]",
                 "[+1 Culture] from every [Ivory]",
-                "[20]% Yield from every [Sheep]",
-                "[20]% Yield from every [Cattle]",
-                "[20]% Yield from every [Ivory]",
+                "[+20]% Yield from every [Sheep]",
+                "[+20]% Yield from every [Cattle]",
+                "[+20]% Yield from every [Ivory]",
                 "May buy [Sacred Bull] buildings for [10] [Faith] [in cities following this religion] at an increasing price ([5])",
                 "May buy [Basic Pantheon] buildings for [1] [Faith] [in capital] <before the [Renaissance era]>",
 //                "May buy [Religious Practice] buildings for [1] [Faith] [in capital] <before the [Renaissance era]>"
@@ -242,9 +242,9 @@
                 "[+1 Culture] from every [Bananas]",
                 "[+1 Culture] from every [Citrus]",
                 "[+1 Culture] from every [Sugar]", //note: replace this with cocoa once it's available 
-                "[20]% Yield from every [Bananas]",
-                "[20]% Yield from every [Citrus]",
-                "[20]% Yield from every [Sugar]",
+                "[+20]% Yield from every [Bananas]",
+                "[+20]% Yield from every [Citrus]",
+                "[+20]% Yield from every [Sugar]",
                 "May buy [Idol of Plenty] buildings for [10] [Faith] [in cities following this religion] at an increasing price ([5])",
                 "May buy [Basic Pantheon] buildings for [1] [Faith] [in capital] <before the [Renaissance era]>",
 //                "May buy [Religious Practice] buildings for [1] [Faith] [in capital] <before the [Renaissance era]>"
@@ -314,7 +314,7 @@
                 "May buy [Battle Rites] buildings for [10] [Faith] [in cities following this religion] at an increasing price ([5])",
                 "May buy [Basic Pantheon] buildings for [1] [Faith] [in capital] <before the [Renaissance era]>",
 //                "May buy [Religious Practice] buildings for [1] [Faith] [in capital] <before the [Renaissance era]>",
-                "[+10]% Production when constructing [non-Civilian] units [in cities following this religion]"
+                "[+10]% Production when constructing [Military] units [in cities following this religion]"
                 ]
   },
   {
@@ -401,6 +401,7 @@
 
 //On second thought,
 //And lastly,
+
 /*  {
      "name": "The One God",
      "type": "Pantheon",
@@ -419,6 +420,7 @@
                 "[+25]% Spread Religion Strength"
                 ]
   },*/
+
 //I'll leave these out until we get more complex behavior and I can use them that way.
 //////////////////////////////////////////////Founder Beliefs//////////////////////////////////////////////
 
@@ -529,9 +531,9 @@
                 "[+1 Culture] from every [Incense]",
                 "[+1 Culture] from every [Wine]",
                 "[+1 Culture] from every [Dyes]",
-                "[20]% Yield from every [Incense]",
-                "[20]% Yield from every [Wine]",
-                "[20]% Yield from every [Dyes]",
+                "[+20]% Yield from every [Incense]",
+                "[+20]% Yield from every [Wine]",
+                "[+20]% Yield from every [Dyes]",
                 "May buy [Dancing Ground] buildings for [10] [Faith] [in cities following this religion] at an increasing price ([5])"
                 ]
   },
@@ -542,9 +544,9 @@
                 "[+1 Culture] from every [Crab]",
                 "[+1 Culture] from every [Whales]",
                 "[+1 Culture] from every [Pearls]",
-                "[20]% Yield from every [Crab]",
-                "[20]% Yield from every [Whales]",
-                "[20]% Yield from every [Pearls]",
+                "[+20]% Yield from every [Crab]",
+                "[+20]% Yield from every [Whales]",
+                "[+20]% Yield from every [Pearls]",
                 "May buy [Tidal Shrine] buildings for [10] [Faith] [in cities following this religion] at an increasing price ([5])"
                 ]
   },  {
@@ -554,9 +556,9 @@
                 "[+1 Culture] from every [Wheat]",
                 "[+1 Culture] from every [Truffles]",
                 "[+1 Culture] from every [Deer]",
-                "[20]% Yield from every [Wheat]",
-                "[20]% Yield from every [Truffles]",
-                "[20]% Yield from every [Deer]",
+                "[+20]% Yield from every [Wheat]",
+                "[+20]% Yield from every [Truffles]",
+                "[+20]% Yield from every [Deer]",
                 "May buy [Feasting Hall] buildings for [10] [Faith] [in cities following this religion] at an increasing price ([5])"
                 ]
   },
@@ -567,9 +569,9 @@
                 "[+1 Culture] from every [Sheep]",
                 "[+1 Culture] from every [Cattle]",
                 "[+1 Culture] from every [Ivory]",
-                "[20]% Yield from every [Sheep]",
-                "[20]% Yield from every [Cattle]",
-                "[20]% Yield from every [Ivory]",
+                "[+20]% Yield from every [Sheep]",
+                "[+20]% Yield from every [Cattle]",
+                "[+20]% Yield from every [Ivory]",
                 "May buy [Sacred Bull] buildings for [10] [Faith] [in cities following this religion] at an increasing price ([5])"
                 ]
   },
@@ -580,9 +582,9 @@
                 "[+1 Culture] from every [Bananas]",
                 "[+1 Culture] from every [Citrus]",
                 "[+1 Culture] from every [Sugar]", //note: replace this with cocoa once it's available 
-                "[20]% Yield from every [Bananas]",
-                "[20]% Yield from every [Citrus]",
-                "[20]% Yield from every [Sugar]",
+                "[+20]% Yield from every [Bananas]",
+                "[+20]% Yield from every [Citrus]",
+                "[+20]% Yield from every [Sugar]",
                 "May buy [Idol of Plenty] buildings for [10] [Faith] [in cities following this religion] at an increasing price ([5])"
                 ]
   },
@@ -636,7 +638,7 @@
      "type": "Founder",
      "uniques": [
                  "May buy [Battle Rites] buildings for [10] [Faith] [in cities following this religion] at an increasing price ([5])",
-                 "[+10]% Production when constructing [non-Civilian] units [in cities following this religion]"
+                 "[+10]% Production when constructing [Military] units [in cities following this religion]"
                 ]
   },
   {
