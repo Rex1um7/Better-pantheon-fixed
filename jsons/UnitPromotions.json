@@ -2,14 +2,15 @@
   {
     "name": "Warrior Cult",
     "uniques": [
-               "Earn [35]% of the damage done to [Military] units as [Faith]",
-               "Can move immediately once bought"
+               "Earn [25]% of the damage done to [Military] units as [Faith]",
+               "[+25]% XP gained from combat"
                ]
   },
   {
     "name": "Hunter Cult",
     "uniques": [
                "[+1] Movement",
+               "[+1] Sight",
                "Can move after attacking"
                ]
   },
@@ -24,7 +25,7 @@
   {
     "name": "Defender of the Faith",
     "uniques": [
-               "[+20]% Strength <when fighting in [Friendly Land] tiles>",
+               "[+25]% Strength <when fighting in [Friendly Land] tiles>",
                ]
   },
   {
