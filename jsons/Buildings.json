@@ -8,8 +8,9 @@
      "uniques": [
                 "[+1]% [Faith] [in all cities] <while the empire is happy>",
                 "Unbuildable", 
-                "Hidden when religion is disabled"
-                "Basic Religion", "Simple"
+                "Hidden when religion is disabled",
+                "Basic Religion", 
+	        "Simple"
                 ],
    },
    { //Small Gods 
@@ -19,8 +20,9 @@
      "uniques": [
                 "[+5]% [Faith] [in this city] <while the empire is happy>",
                 "Unbuildable", 
-                "Hidden when religion is disabled"
-                "Basic Religion", "Simple"
+                "Hidden when religion is disabled",
+                "Basic Religion", 
+	        "Simple"
                 ],
    },
    { //Correct Actions 
@@ -52,8 +54,9 @@
      "uniques": [
                 "[+1 Faith] per [5] population [in this city]",
                 "Unbuildable", 
-                "Hidden when religion is disabled"
-                "Basic Religion", "Simple"
+                "Hidden when religion is disabled",
+                "Basic Religion", 
+	        "Simple"
                 ],
    },
    { //Arctic Folklore 
@@ -64,8 +67,9 @@
                 "[+1 Faith] from [Tundra] tiles [in this city] <within [2] tiles of a [City center]>",
                 "[+1 Faith] from [Snow] tiles [in this city] <within [2] tiles of a [City center]>",
                 "Unbuildable", 
-                "Hidden when religion is disabled"
-                "Basic Religion", "Folklore"
+                "Hidden when religion is disabled",
+                "Basic Religion", 
+	        "Folklore"
                 ],
    },
    { //Desert Folklore 
@@ -75,8 +79,9 @@
      "uniques": [
                 "[+1 Faith] from [Desert] tiles [in this city] <within [2] tiles of a [City center]>",
                 "Unbuildable", 
-                "Hidden when religion is disabled"
-                "Basic Religion", "Folklore"
+                "Hidden when religion is disabled",
+                "Basic Religion",
+	        "Folklore"
                 ],
    },
    { //Woodland Folklore 
@@ -86,8 +91,9 @@
      "uniques": [
                 "[+1 Faith] from [Forest] tiles [in this city] <within [2] tiles of a [City center]>",
                 "Unbuildable", 
-                "Hidden when religion is disabled"
-                "Basic Religion", "Folklore"
+                "Hidden when religion is disabled",
+                "Basic Religion", 
+	        "Folklore"
                 ],
    },
    { //Grassland Folklore 
@@ -98,8 +104,9 @@
                 "[+1 Faith] from [Grassland] tiles [in this city] <in tiles without [Forest]> <in tiles without [Hill]> <within [2] tiles of a [City center]>",
                 "[+1 Faith] from [Plains] tiles [in this city] <in tiles without [Forest]> <in tiles without [Hill]> <within [2] tiles of a [City center]>",
                 "Unbuildable", 
-                "Hidden when religion is disabled"
-                "Basic Religion", "Folklore"
+                "Hidden when religion is disabled",
+                "Basic Religion", 
+	        "Folklore"
                 ],
    },
    { //Mountain Folklore 
@@ -109,8 +116,9 @@
      "uniques": [
                 "[+1 Faith] from [Mountain] tiles [in this city] <within [2] tiles of a [City center]>",
                 "Unbuildable", 
-                "Hidden when religion is disabled"
-                "Basic Religion", "Folklore"
+                "Hidden when religion is disabled",
+                "Basic Religion", 
+	        "Folklore"
                 ],
    },
    { //Coastal Folklore 
@@ -120,8 +128,9 @@
      "uniques": [
                 "[+1 Faith] from [Water] tiles [in this city] <within [2] tiles of a [City center]>",
                 "Unbuildable", 
-                "Hidden when religion is disabled"
-                "Basic Religion", "Folklore"
+                "Hidden when religion is disabled",
+                "Basic Religion", 
+	        "Folklore"
                 ],
    },
    { //Sacred Path 
@@ -179,8 +188,9 @@
                 "[+1 Faith] from every [Wine]",
                 "[+1 Faith] from every [Dyes]",
                 "Unbuildable", 
-                "Hidden when religion is disabled"
-                "Basic Religion", "Sacred"
+                "Hidden when religion is disabled",
+                "Basic Religion", 
+	        "Sacred"
                 ],
    },
    { //Sacred Seas
@@ -230,6 +240,7 @@
                 "[+1 Faith] from every [Bananas]",
                 "[+1 Faith] from every [Citrus]",
                 "[+1 Faith] from every [Sugar]", //just a reminder, replace this with cocoa once it's available 
+                "[+1 Faith] from every [Cocoa]",
                 "Unbuildable", 
                 "Hidden when religion is disabled",
                 "Basic Religion", "Sacred"
@@ -266,7 +277,7 @@
      "faith": 1,
      "uniques": [
                 "All newly-trained [Military] units [in this city] receive the [Warrior Cult] promotion",
-	        "New [Military] units start with [4] Experience [in all cities]",
+	        "New [Military] units start with [3] Experience [in all cities]",
                 "Unbuildable", 
                 "Hidden when religion is disabled",
                 "Basic Religion", "Deific"
@@ -290,7 +301,7 @@
      "uniques": [
                 "[+1 Faith] per [5] population [in this city]",
                 "Unbuildable", 
-                "Hidden when religion is disabled"
+                "Hidden when religion is disabled",
                 "Basic Religion", "Deific"
                 ],
    },
@@ -314,7 +325,7 @@
                 "All newly-trained [Ranged] units [in this city] receive the [Hunter Cult] promotion",
                 "[+1 Faith] from [Camp] tiles [in this city]",
                 "Unbuildable", 
-                "Hidden when religion is disabled"
+                "Hidden when religion is disabled",
                 "Basic Religion", "Deific"
                 ],
    },
