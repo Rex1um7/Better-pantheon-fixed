@@ -160,7 +160,7 @@
      "cost": 50,
      "faith": 1,
      "uniques": [
-                "[+2 Faith] from every [Quarry] [in this city]",
+                "[+2 Faith] from every [Quarry] <in this city>",
                 "Unbuildable", 
                 "Hidden when religion is disabled",
                 "Basic Religion", "Sacred"
