@@ -1021,7 +1021,7 @@
     },
 */
 //Modified Palace with extra religion choices, so you'll always have them
-    {
+   /* {
      "name": "Palace",
      "isNationalWonder": true,
      "production": 3,
@@ -1037,5 +1037,6 @@
                 "Indicates the capital city"
                 ]
   }
+*/
 //Trying out new syntax to see if it works 
 ]
