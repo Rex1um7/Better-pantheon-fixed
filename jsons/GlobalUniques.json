@@ -1,9 +1,8 @@
-[
-    {
+{
         "uniques":[
             "May choose [2] additional [Founder] beliefs when [founding] a religion",
             "May choose [1] additional [Enhancer] beliefs when [enhancing] a religion",
             "May choose [2] additional belief(s) of any type when [enhancing] a religion",
         ]
-    }
-]
+}
+
