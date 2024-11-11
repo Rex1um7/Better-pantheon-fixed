@@ -8,7 +8,7 @@
      "uniques": [
                 "[+1]% [Faith] [in all cities] <while the empire is happy>",
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Basic Religion", 
 	        "Simple"
                 ],
@@ -20,7 +20,7 @@
      "uniques": [
                 "[+5]% [Faith] [in this city] <while the empire is happy>",
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Basic Religion", 
 	        "Simple"
                 ],
@@ -32,7 +32,7 @@
      "uniques": [
                 "[+1 Faith] per [15] population [in all cities]",
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Basic Religion", "Simple"
                 ],
    },
@@ -43,7 +43,7 @@
      "uniques": [
 //This one doesn't have anything extra because its effect has to go in the belief to work right 
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Basic Religion", "Simple"
                 ],
    },
@@ -54,7 +54,7 @@
      "uniques": [
                 "[+1 Faith] per [5] population [in this city]",
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Basic Religion", 
 	        "Simple"
                 ],
@@ -67,7 +67,7 @@
                 "[+1 Faith] from [Tundra] tiles [in this city] <within [2] tiles of a [City center]>",
                 "[+1 Faith] from [Snow] tiles [in this city] <within [2] tiles of a [City center]>",
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Basic Religion", 
 	        "Folklore"
                 ],
@@ -79,7 +79,7 @@
      "uniques": [
                 "[+1 Faith] from [Desert] tiles [in this city] <within [2] tiles of a [City center]>",
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Basic Religion",
 	        "Folklore"
                 ],
@@ -91,7 +91,7 @@
      "uniques": [
                 "[+1 Faith] from [Forest] tiles [in this city] <within [2] tiles of a [City center]>",
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Basic Religion", 
 	        "Folklore"
                 ],
@@ -104,7 +104,7 @@
                 "[+1 Faith] from [Grassland] tiles [in this city] <in tiles without [Forest]> <in tiles without [Hill]> <within [2] tiles of a [City center]>",
                 "[+1 Faith] from [Plains] tiles [in this city] <in tiles without [Forest]> <in tiles without [Hill]> <within [2] tiles of a [City center]>",
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Basic Religion", 
 	        "Folklore"
                 ],
@@ -116,7 +116,7 @@
      "uniques": [
                 "[+1 Faith] from [Mountain] tiles [in this city] <within [2] tiles of a [City center]>",
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Basic Religion", 
 	        "Folklore"
                 ],
@@ -128,7 +128,7 @@
      "uniques": [
                 "[+1 Faith] from [Water] tiles [in this city] <within [2] tiles of a [City center]>",
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Basic Religion", 
 	        "Folklore"
                 ],
@@ -140,7 +140,7 @@
      "uniques": [
                 "[+1 Faith] from [Jungle] tiles [in this city] <within [2] tiles of a [City center]>",
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Basic Religion", "Sacred"
                 ],
    },
@@ -151,7 +151,7 @@
      "uniques": [
                 "[+1 Faith] from [River] tiles [in this city] <within [2] tiles of a [City center]>",
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Basic Religion", "Sacred"
                 ],
    },
@@ -162,7 +162,7 @@
      "uniques": [
                 "[+2 Faith] from every [Quarry] <in this city>",
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Basic Religion", "Sacred"
                 ],
    },
@@ -175,7 +175,7 @@
                 "[+1 Faith] from every [Silver]",
                 "[+1 Faith] from every [Gems]",
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Basic Religion", "Sacred"
                 ],
    },
@@ -188,7 +188,7 @@
                 "[+1 Faith] from every [Wine]",
                 "[+1 Faith] from every [Dyes]",
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Basic Religion", 
 	        "Sacred"
                 ],
@@ -202,7 +202,7 @@
                 "[+1 Faith] from every [Whales]",
                 "[+1 Faith] from every [Pearls]",
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Basic Religion", "Sacred"
                 ],
    },
@@ -215,7 +215,7 @@
                 "[+1 Faith] from every [Truffles]",
                 "[+1 Faith] from every [Deer]",
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Basic Religion", "Sacred"
                 ],
    },
@@ -228,7 +228,7 @@
                 "[+1 Faith] from every [Sheep]",
                 "[+1 Faith] from every [Ivory]",
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Basic Religion", "Sacred"
                 ],
    },
@@ -242,7 +242,7 @@
                 "[+1 Faith] from every [Sugar]", //just a reminder, replace this with cocoa once it's available 
                 "[+1 Faith] from every [Cocoa]",
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Basic Religion", "Sacred"
                 ],
    },
@@ -255,7 +255,7 @@
 //                "Enables conversion of city production to [Faith] <in cities with a [Cult of the Maker]>",
 //This doesn't actually work, think of something else to do with this 
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Basic Religion", "Deific"
                 ],
    },
@@ -267,7 +267,7 @@
                 "[+15]% Production when constructing [Water] units [in this city]",
                 "Must be next to [Water]",
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Basic Religion", "Deific"
                 ],
    },
@@ -279,7 +279,7 @@
                 "All newly-trained [Military] units [in this city] receive the [Warrior Cult] promotion",
 	        "New [Military] units start with [3] Experience [in all cities]",
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Basic Religion", "Deific"
                 ],
    },
@@ -290,7 +290,7 @@
      "uniques": [
                 "[+1 Faith] from [Hill] tiles without [Forest] [in this city] <within [5] tiles of a [City center]>",
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Basic Religion", "Deific"
                 ],
    },
@@ -301,7 +301,7 @@
      "uniques": [
                 "[+1 Faith] per [5] population [in this city]",
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Basic Religion", "Deific"
                 ],
    },
@@ -313,7 +313,7 @@
                 "[+1 Faith] [in all cities] <with a garrison>",
                 "[+15]% City Strength from defensive buildings <with a garrison>",
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Basic Religion", "Deific"
                 ],
    },
@@ -325,7 +325,7 @@
                 "All newly-trained [Ranged] units [in this city] receive the [Hunter Cult] promotion",
                 "[+1 Faith] from [Camp] tiles [in this city]",
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Basic Religion", "Deific"
                 ],
    },
@@ -362,7 +362,7 @@
 //The problem with that is it only ever generates *one* faith, if there's *any* production buildings,
 //The desired behavior is that *each* production building in the same city generates one faith. 
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Basic Religion", "Deific"
                 ],
    },
@@ -374,7 +374,7 @@
                 "[+1 Faith] from [Fishing Boats] tiles [in all cities]",
                 "Must be next to [Water]",
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Basic Religion", "Deific"
                 ],
    },
@@ -385,7 +385,7 @@
      "uniques": [
                 "[+4]% [Production] [in this city] <when at war>",
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Basic Religion", "Deific"
                 ],
    },
@@ -396,7 +396,7 @@
      "uniques": [
                 "[+1 Faith] from [Land] tiles without [Forest] [in this city] <within [4] tiles of a [City center]>",
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Basic Religion", "Deific"
                 ],
    },
@@ -408,7 +408,7 @@
                 "[+1 Faith] from [Farm] tiles [in this city]",
                 "[+10]% growth [in this city]",
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Basic Religion", "Deific"
                 ],
    },
@@ -426,7 +426,7 @@
 //WRRRRY.gif
                 "[+5]% Strength for cities <when attacking>",
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Basic Religion", "Deific"
                 ],
    },
@@ -438,7 +438,7 @@
                 "All newly-trained [Ranged] units [in this city] receive the [Hunting Rites] promotion",
                 "[+1 Faith] from [Camp] tiles [in all cities]",
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Basic Religion", "Deific"
                 ],
    },//Yes they both give out promotions. A spot where doubling down is really good here; getting both is a pretty good boost for your unit
@@ -457,7 +457,7 @@
 //Did not function as intended, moving this to the Belief in hopes that does.
 //                "Requires a [Basic Religion] in at least [5] cities",
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Enhanced Religion", "Burial"
                 ],
    },
@@ -470,7 +470,7 @@
 //                "[+1 Culture] from every [Basic Religion] <in cities with a [Seminary]>", 
 //                "Requires a [Basic Religion] in at least [5] cities",
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Enhanced Religion", "Worldwide"
                 ],
    },
@@ -484,7 +484,7 @@
 //                "[+1 Gold] from every [Basic Religion] <in cities with a [Blessed Market]>",
 //                "Requires a [Basic Religion] in at least [5] cities",
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Enhanced Religion", "Tithe"
                 ],
    },
@@ -503,7 +503,7 @@
                 "Religious Wonder",
                 "Unbuildable", 
                 "Never destroyed when the city is captured",
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Enhanced Religion", "Pilgrimage"
                 ],
    },
@@ -523,7 +523,7 @@
                 "Religious Wonder",
                 "Unbuildable", 
                 "Never destroyed when the city is captured",
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Enhanced Religion", "Pilgrimage"
                 ],
    },
@@ -541,7 +541,7 @@
                 "Religious Wonder",
                 "Unbuildable", 
                 "Never destroyed when the city is captured",
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Enhanced Religion", "Pilgrimage"
                 ],
    },
@@ -561,7 +561,7 @@
                 "Religious Wonder",
                 "Unbuildable", 
                 "Never destroyed when the city is captured",
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Enhanced Religion", "Pilgrimage"
                 ],
    },
@@ -574,7 +574,7 @@
 //                "[+1 Science] from every [Basic Religion] <in cities with a [Temple of Contemplation]>",
 //                "Requires a [Basic Religion] in at least [5] cities",
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Enhanced Religion", "Harmony"
                 ],
    },
@@ -593,7 +593,7 @@
                 "Only available <if [Burial Ground] is constructed in at least [3] of [All] cities>", 
                 "Unbuildable",
                 "Never destroyed when the city is captured", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Religious Wonder", "Burial"
                 ],
    },
@@ -609,7 +609,7 @@
 //                "Requires a [Worldwide] in at least [3] cities", 
                 "Only available <if [Seminary] is constructed in at least [3] of [All] cities>", 
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Religious Wonder", "Worldwide"
                 ],
    },
@@ -626,7 +626,7 @@
                 "Only available <if [Blessed Market] is constructed in at least [3] of [All] cities>", 
                 "Unbuildable",
                 "Never destroyed when the city is captured", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Religious Wonder", "Tithe"
                 ],
    },
@@ -643,7 +643,7 @@
                 "Only available <if [Temple of Contemplation] is constructed in at least [3] of [All] cities>", 
                 "Unbuildable", 
                 "Never destroyed when the city is captured",
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Religious Wonder", "Harmony"
                 ],
    },
@@ -662,7 +662,7 @@
                 //"Only available <if [Enhanced Religion] is constructed in at least [3] of [All] cities>", 
                 "Unbuildable",
                 "Never destroyed when the city is captured", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Religious Wonder", "Burial"
                 ],
    },
@@ -678,7 +678,7 @@
 //                "Requires a [Basic Religion] in at least [6] cities",
 //                "Requires a [Enhanced Religion] in at least [3] cities", 
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Religious Wonder", "Worldwide"
                 ],
    },
@@ -695,7 +695,7 @@
 //                "Requires a [Enhanced Religion] in at least [3] cities",
                 "Unbuildable",
                 "Never destroyed when the city is captured", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Religious Wonder", "Tithe"
                 ],
    },
@@ -712,7 +712,7 @@
 //                "Requires a [Enhanced Religion] in at least [3] cities", 
                 "Unbuildable", 
                 "Never destroyed when the city is captured",
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Religious Wonder", "Harmony"
                 ],
    },
@@ -734,7 +734,7 @@
                 "Only available <in cities without a [Religious World Wonder]>",
                 "Unbuildable", 
                 "Never destroyed when the city is captured",
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Religious World Wonder", "Burial"
                 ],
    },
@@ -754,7 +754,7 @@
                 "Only available <in cities without a [Religious World Wonder]>",
                 "Unbuildable",
                 "Never destroyed when the city is captured",
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Religious World Wonder", "Worldwide"
                 ],
    },
@@ -774,7 +774,7 @@
                 "Only available <in cities without a [Religious World Wonder]>",
                 "Unbuildable",
                 "Never destroyed when the city is captured", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Religious World Wonder", "Tithe"
                 ],
    },
@@ -794,7 +794,7 @@
                 "Only available <in cities without a [Religious World Wonder]>",
                 "Unbuildable", 
                 "Never destroyed when the city is captured",
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Religious World Wonder", "Harmony"
                 ],
    },
@@ -812,7 +812,7 @@
                 "Only available <in cities without a [Pilgrimage]>",
                 "Unbuildable", 
                 "Never destroyed when the city is captured",
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Religious World Wonder", "Pilgrimage"
                 ],
    },
@@ -831,7 +831,7 @@
                 "Only available <in cities without a [Pilgrimage]>",
                 "Unbuildable", 
                 "Never destroyed when the city is captured",
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Religious World Wonder", "Pilgrimage"
                 ],
    },
@@ -851,7 +851,7 @@
                 "Only available <in cities without a [Pilgrimage]>",
                 "Unbuildable", 
                 "Never destroyed when the city is captured",
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Religious World Wonder", "Pilgrimage"
                 ],
    },
@@ -875,7 +875,7 @@
 //*That* is *entirely* deliberate. No more than two strategicly relevant sites per city though.
                 "Unbuildable",
                 "Never destroyed when the city is captured", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Religious World Wonder", "Pilgrimage"
                 ],
    },
@@ -889,7 +889,7 @@
                 "Limited to [2] per Civilization",
                 "Unbuildable", 
                 "Unsellable",//Is this the problem? LET'S FIND OUT!
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Simple Religion upgrade"
                 ],
     },
@@ -904,7 +904,7 @@
                 "Unsellable",//if it is, I'll just have to deal with the exploitable nature of it.
                 //Perhaps I should smack them on your capital for free the first time you build a T1 building
                 //If I can get them to effing WORK 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Simple Religion upgrade"
                 ],
     },*/
@@ -918,7 +918,7 @@
                 "May choose [2] extra [Founder] beliefs when [Founding] a religion",
                 "Limited to [1] per Civilization",
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Simple Religion upgrade"
                 ],
     },
@@ -930,7 +930,7 @@
                 "May choose [2] extra belief(s) of any type when [Enhancing] a religion",
                 "Limited to [1] per Civilization",
                 "Unbuildable", 
-                "Hidden when religion is disabled",
+                "Only available <when religion is enabled>",
                 "Simple Religion upgrade"
                 ],
     }, 
@@ -945,7 +945,7 @@
 		"maintenance": 1,
 		"requiredTech": "Pottery",
 		"uniques": [
-                           "Hidden when religion is disabled",
+                           "Only available <when religion is enabled>",
                            "Basic Religion", "Agnostic"
                            ]
 	},
@@ -958,7 +958,7 @@
 		"cost": 40,
 		"maintenance": 1,
 		"requiredTech": "Pottery",
-		"uniques": ["Hidden when religion is disabled","Basic Religion", "Agnostic"]
+		"uniques": ["Only available <when religion is enabled>","Basic Religion", "Agnostic"]
 	},
 	{
 		"name": "Temple",
@@ -967,7 +967,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
-		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured","Enhanced Religion", "Agnostic"]
+		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured","Enhanced Religion", "Agnostic"]
 	},
 	{
 		"name": "Burial Tomb",
@@ -1002,7 +1002,7 @@
                            "Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>", 
                            "Cost increases by [30] per owned city",
 			   "[+100]% Natural religion spread [in this city]", 
-                           "Hidden when religion is disabled", 
+                           "Only available <when religion is enabled>", 
                            "Can only be built <in [in holy cities] cities>",
                            "Religious Wonder", "Agnostic"
                            ],
@@ -1017,7 +1017,7 @@
      "culture": 3,
      "happiness": 1,
      "specialistSlots": {"Artist": 1},
-     "uniques": ["Unbuildable", "Hidden when religion is disabled"]
+     "uniques": ["Unbuildable", "Only available <when religion is enabled>"]
     },
 */
 //Modified Palace with extra religion choices, so you'll always have them
