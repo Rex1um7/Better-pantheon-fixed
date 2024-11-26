@@ -2,7 +2,8 @@
   {
     "name": "Warrior Cult",
     "uniques": [
-               "Earn [25]% of the damage done to [Military] units as [Faith]",
+               "Earn [75]% of killed [Military] unit's [Strength] as [Faith]",
+                "Earn [15]% of the damage done to [City] units as [Gold]",
                "[+25]% XP gained from combat"
                ]
   },
@@ -18,8 +19,7 @@
     "name": "Hunting Rites",
     "uniques": [
                "[+1] Range",
-               "Withdraws before melee combat <with [30]% chance>",
-               "Ranged attacks may be performed over obstacles"
+               "Withdraws before melee combat <with [25]% chance>",
                ]
   },
   {
