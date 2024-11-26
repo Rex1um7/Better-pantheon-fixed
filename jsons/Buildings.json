@@ -85,7 +85,7 @@
                 ],
    },
    { //Woodland Folklore 
-     "name": "Sacred Grove",
+     "name": "Sacred Wood",
      "cost": 50,
      "faith": 1,
      "uniques": [
@@ -278,9 +278,14 @@
      "uniques": [
                 "All newly-trained [Military] units [in this city] receive the [Warrior Cult] promotion",
 	        "New [Military] units start with [3] Experience [in all cities]",
+	     	"[+1 Faith] from every [Military Academy] <in this city>",
+	     	"[+1 Faith] from every [Armory] <in this city>",
+	     	"[+1 Faith] from every [Barracks] <in this city>",
+	     	"[+1 Faith] from every [Brandenburg Gate] <in this city>",
                 "Unbuildable", 
                 "Only available <when religion is enabled>",
-                "Basic Religion", "Deific"
+                "Basic Religion", 
+	     	"Deific"
                 ],
    },
   { //Sky 
