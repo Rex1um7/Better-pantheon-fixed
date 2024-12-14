@@ -905,7 +905,7 @@
      "cost": 0,
      "uniques": [
                 "Gain a free [Follower] belief",
-	     	"Can be purchased for [3] [Culture] [in holy city] <in cities with a [Basic Pantheon]>"
+	     	"Can be purchased for [0] [Faith] [in holy cities] <in cities with a [Basic Pantheon]>"
                 "Limited to [1] per Civilization",
                 "Unbuildable",
                 "Unsellable",				//if it is, I'll just have to deal with the exploitable nature of it.
