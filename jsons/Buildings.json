@@ -18,7 +18,7 @@
      "cost": 50,
      "faith": 1,
      "uniques": [
-                "[+5]% [Faith] [in this city] <while the empire is happy>",
+                "[+10]% [Faith] [in this city] <while the empire is happy>",
                 "Unbuildable", 
                 "Only available <when religion is enabled>",
                 "Basic Religion", 
@@ -64,8 +64,8 @@
      "cost": 50,
      "faith": 1,
      "uniques": [
-                "[+1 Faith] from [Tundra] tiles [in this city] <within [2] tiles of a [City center]>",
-                "[+1 Faith] from [Snow] tiles [in this city] <within [2] tiles of a [City center]>",
+                "[+1 Faith] from [Tundra] tiles [in this city] <within [3] tiles of a [City center]>",
+                "[+1 Faith] from [Snow] tiles [in this city] <within [3] tiles of a [City center]>",
                 "Unbuildable", 
                 "Only available <when religion is enabled>",
                 "Basic Religion", 
@@ -77,7 +77,7 @@
      "cost": 50,
      "faith": 1,
      "uniques": [
-                "[+1 Faith] from [Desert] tiles [in this city] <within [2] tiles of a [City center]>",
+                "[+1 Faith] from [Desert] tiles [in this city] <within [3] tiles of a [City center]>",
                 "Unbuildable", 
                 "Only available <when religion is enabled>",
                 "Basic Religion",
@@ -89,7 +89,7 @@
      "cost": 50,
      "faith": 1,
      "uniques": [
-                "[+1 Faith] from [Forest] tiles [in this city] <within [2] tiles of a [City center]>",
+                "[+1 Faith] from [Forest] tiles [in this city] <within [3] tiles of a [City center]>",
                 "Unbuildable", 
                 "Only available <when religion is enabled>",
                 "Basic Religion", 
@@ -101,8 +101,8 @@
      "cost": 50,
      "faith": 1,
      "uniques": [
-                "[+1 Faith] from [Grassland] tiles [in this city] <in tiles without [Forest]> <in tiles without [Hill]> <within [2] tiles of a [City center]>",
-                "[+1 Faith] from [Plains] tiles [in this city] <in tiles without [Forest]> <in tiles without [Hill]> <within [2] tiles of a [City center]>",
+                "[+1 Faith] from [Grassland] tiles [in this city] <in tiles without [Forest]> <in tiles without [Hill]> <within [3] tiles of a [City center]>",
+                "[+1 Faith] from [Plains] tiles [in this city] <in tiles without [Forest]> <in tiles without [Hill]> <within [3] tiles of a [City center]>",
                 "Unbuildable", 
                 "Only available <when religion is enabled>",
                 "Basic Religion", 
@@ -114,7 +114,7 @@
      "cost": 50,
      "faith": 1,
      "uniques": [
-                "[+1 Faith] from [Mountain] tiles [in this city] <within [2] tiles of a [City center]>",
+                "[+1 Faith] from [Mountain] tiles [in this city] <within [3] tiles of a [City center]>",
                 "Unbuildable", 
                 "Only available <when religion is enabled>",
                 "Basic Religion", 
@@ -126,7 +126,7 @@
      "cost": 50,
      "faith": 1,
      "uniques": [
-                "[+1 Faith] from [Water] tiles [in this city] <within [2] tiles of a [City center]>",
+                "[+1 Faith] from [Water] tiles [in this city] <within [3] tiles of a [City center]>",
                 "Unbuildable", 
                 "Only available <when religion is enabled>",
                 "Basic Religion", 
@@ -138,7 +138,7 @@
      "cost": 50,
      "faith": 1,
      "uniques": [
-                "[+1 Faith] from [Jungle] tiles [in this city] <within [2] tiles of a [City center]>",
+                "[+1 Faith] from [Jungle] tiles [in this city] <within [3] tiles of a [City center]>",
                 "Unbuildable", 
                 "Only available <when religion is enabled>",
                 "Basic Religion", "Sacred"
@@ -149,7 +149,7 @@
      "cost": 50,
      "faith": 1,
      "uniques": [
-                "[+1 Faith] from [River] tiles [in this city] <within [2] tiles of a [City center]>",
+                "[+1 Faith] from [River] tiles [in this city] <within [3] tiles of a [City center]>",
                 "Unbuildable", 
                 "Only available <when religion is enabled>",
                 "Basic Religion", "Sacred"
@@ -341,32 +341,7 @@
      "cost": 50,
      "faith": 1,
      "uniques": [
-                "[+1 Faith] [in this city] <in cities with a [Stone Works]>",
-                "[+1 Faith] [in this city] <in cities with a [Water Mill]>",
-                "[+1 Faith] [in this city] <in cities with a [Stable]>",
-                "[+1 Faith] [in this city] <in cities with a [Petra]>",
-                "[+1 Faith] [in this city] <in cities with a [Workshop]>",
-                "[+1 Faith] [in this city] <in cities with a [Forge]>",
-                "[+1 Faith] [in this city] <in cities with a [Harbor]>",
-                "[+1 Faith] [in this city] <in cities with a [Ironworks]>",
-                "[+1 Faith] [in this city] <in cities with a [Seaport]>",
-                "[+1 Faith] [in this city] <in cities with a [Windmill]>",
-                "[+1 Faith] [in this city] <in cities with a [Factory]>",
-                "[+1 Faith] [in this city] <in cities with a [Hydro Plant]>",
-                "[+1 Faith] [in this city] <in cities with a [Statue of Liberty]>",
-                "[+1 Faith] [in this city] <in cities with a [Solar Plant]>",
-                "[+1 Faith] [in this city] <in cities with a [Nuclear Plant]>",
-                "[+1 Faith] [in this city] <in cities with a [Spaceship Factory]>",
-
-//Oh I hate this, but it's the only way to get the desired behavior 
-//Why for the love of god can't we get more cityFilter versions of things
-//"[+1 Faith from all [Production buildings [in this city" would be so much more elegant!
-//If it would stop using close brackets that are commented out, that'd be *gr~eat*
-
-// testing if this works
-//                " +1 Faith  in this city <in cities with a  Production >",
-//The problem with that is it only ever generates *one* faith, if there's *any* production buildings,
-//The desired behavior is that *each* production building in the same city generates one faith. 
+                "[+1 Faith] from all [Production] buildings <in this city>",
                 "Unbuildable", 
                 "Only available <when religion is enabled>",
                 "Basic Religion", "Deific"
@@ -389,7 +364,7 @@
      "cost": 50,
      "faith": 1,
      "uniques": [
-                "[+4]% [Production] [in this city] <when at war>",
+                "[+5]% [Production] [in this city] <when at war>",
                 "Unbuildable", 
                 "Only available <when religion is enabled>",
                 "Basic Religion", "Deific"
@@ -430,7 +405,7 @@
                 "[+1 Faith] [in this city] <in cities with a [Kremlin]>",
 // IhatethisIhatethis*IhatethesSOMUCH!*
 //WRRRRY.gif
-                "[+5]% Strength for cities <when attacking>",
+                "[+10]% Strength for cities <when attacking>",
                 "Unbuildable", 
                 "Only available <when religion is enabled>",
                 "Basic Religion", "Deific"
@@ -458,7 +433,7 @@
      "cost": 100,
      "faith": 2,
      "uniques": [
-                "[+1 Faith] per [14] population [in all cities]",
+                "[+1 Faith] per [10] population [in all cities]",
 //                "[+1 Happiness] from every [Basic Religion] <in cities with a [Burial Ground]>",//this is flakkin' awkward but there's no Cityfilter on this one so this is the best I can do I think 
 //Did not function as intended, moving this to the Belief in hopes that does.
 //                "Requires a [Basic Religion] in at least [5] cities",
@@ -905,7 +880,7 @@
      "cost": 0,
      "uniques": [
                 "Gain a free [Follower] belief",
-	     	"Can be purchased for [0] [Faith] [in holy cities] <in cities with a [Basic Pantheon]>"
+	     	"Can be purchased for [0] [Faith] [in holy cities] <in cities with a [Basic Pantheon]>",
                 "Limited to [1] per Civilization",
                 "Unbuildable",
                 "Unsellable",				//if it is, I'll just have to deal with the exploitable nature of it.
@@ -916,32 +891,6 @@
                 ],
     },
 
-//These are commented out, because I figured out that I can just tack these effect on the Palace
-//That way they're always there and you can't lose them.
-/*   {
-     "name": "The Coming of the Prophet",
-     "cost": 0,
-     "uniques": [
-                "May choose [2] extra [Founder] beliefs when [Founding] a religion",
-                "Limited to [1] per Civilization",
-                "Unbuildable", 
-                "Only available <when religion is enabled>",
-                "Simple Religion upgrade"
-                ],
-    },
-   {
-     "name": "The Second Coming",
-     "cost": 0,
-     "uniques": [
-                "May choose [1] extra [Enhancer] beliefs when [Enhancing] a religion",
-                "May choose [2] extra belief(s) of any type when [Enhancing] a religion",
-                "Limited to [1] per Civilization",
-                "Unbuildable", 
-                "Only available <when religion is enabled>",
-                "Simple Religion upgrade"
-                ],
-    }, 
-*/
 //Section to append proper tags to the vanilla buildings
 
 //putting these back in because I remembered that some things *do* work and need them, natch.
@@ -1027,23 +976,4 @@
      "uniques": ["Unbuildable", "Only available <when religion is enabled>"]
     },
 */
-//Modified Palace with extra religion choices, so you'll always have them
-   /* {
-     "name": "Palace",
-     "isNationalWonder": true,
-     "production": 3,
-     "science": 3,
-     "gold": 3,
-     "culture": 1,
-     "cityStrength": 2,
-     "cost": 1,
-     "uniques": [
-                "May choose [2] additional [Founder] beliefs when [founding] a religion",
-                "May choose [1] additional [Enhancer] beliefs when [enhancing] a religion",
-                "May choose [2] additional belief(s) of any type when [enhancing] a religion",
-                "Indicates the capital city"
-                ]
-  }
-*/
-//Trying out new syntax to see if it works 
 ]
