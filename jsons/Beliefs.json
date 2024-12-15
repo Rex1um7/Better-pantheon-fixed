@@ -275,7 +275,7 @@
                 "May buy [Creation Rites] buildings for [10] [Faith] [in cities following this religion] at an increasing price ([5])",
                 "May buy [Basic Pantheon] buildings for [1] [Faith] [in capital] <before the [Renaissance era]>",
 //                "May buy [Religious Practice] buildings for [1] [Faith] [in capital] <before the [Renaissance era]>",
-                "[+10]% [Production] [in cities following this religion]"
+                "[+10]% [Production] [in all cities]"
                 ]
   },
   {
@@ -285,7 +285,7 @@
                 "May buy [Cult of the Ocean] buildings for [10] [Faith] [in cities following this religion] at an increasing price ([5])",
                 "May buy [Basic Pantheon] buildings for [1] [Faith] [in capital] <before the [Renaissance era]>",
 //                "May buy [Religious Practice] buildings for [1] [Faith] [in capital] <before the [Renaissance era]>",
-                "[+1 Faith, +1 Happiness, +1 Gold, +1 Culture, +1 Science] from [Fishing Boats] tiles [in cities following this religion]"
+                "[+1 Faith, +1 Happiness, +1 Gold, +1 Culture, +1 Science] from [Fishing Boats] tiles [in all cities]"
                 ]
   },
   {
@@ -314,7 +314,7 @@
                 "May buy [Battle Rites] buildings for [10] [Faith] [in cities following this religion] at an increasing price ([5])",
                 "May buy [Basic Pantheon] buildings for [1] [Faith] [in capital] <before the [Renaissance era]>",
 //                "May buy [Religious Practice] buildings for [1] [Faith] [in capital] <before the [Renaissance era]>",
-                "[+10]% Production when constructing [Military] units [in cities following this religion]"
+                "[+10]% Production when constructing [Military] units [in all cities]"
                 ]
   },
   {
@@ -384,7 +384,7 @@
                 "May buy [Cult of the Hunter] buildings for [10] [Faith] [in cities following this religion] at an increasing price ([5])",
                 "May buy [Basic Pantheon] buildings for [1] [Faith] [in capital] <before the [Renaissance era]>",
 //                "May buy [Religious Practice] buildings for [1] [Faith] [in capital] <before the [Renaissance era]>",
-                "[+10]% Production when constructing [{Ranged} {Land}] units [in cities following this religion]"
+                "[+10]% Production when constructing [{Ranged} {Land}] units [in all cities]"
                 ]
   },
   {
@@ -607,7 +607,7 @@
      "type": "Founder",
      "uniques": [
                  "May buy [Creation Rites] buildings for [10] [Faith] [in cities following this religion] at an increasing price ([5])",
-                 "[+10]% [Production] [in cities following this religion]"
+                 "[+10]% [Production] [in all cities]"
                 ]
   },
   {
@@ -615,7 +615,7 @@
      "type": "Founder",
      "uniques": [
                  "May buy [Cult of the Ocean] buildings for [10] [Faith] [in cities following this religion] at an increasing price ([5])",
-                 "[+1 Faith, +1 Happiness, +1 Gold, +1 Culture, +1 Science] from [Fishing Boats] tiles [in cities following this religion]"
+                 "[+1 Faith, +1 Happiness, +1 Gold, +1 Culture, +1 Science] from [Fishing Boats] tiles [in all cities]"
                 ]
   },
   {
@@ -638,7 +638,7 @@
      "type": "Founder",
      "uniques": [
                  "May buy [Battle Rites] buildings for [10] [Faith] [in cities following this religion] at an increasing price ([5])",
-                 "[+10]% Production when constructing [Military] units [in cities following this religion]"
+                 "[+10]% Production when constructing [Military] units [in all cities]"
                 ]
   },
   {
@@ -694,7 +694,7 @@
      "type": "Founder",
      "uniques": [
                  "May buy [Cult of the Hunter] buildings for [10] [Faith] [in cities following this religion] at an increasing price ([5])",
-                 "[+10]% Production when constructing [{Ranged} {Land}] units [in cities following this religion]"
+                 "[+10]% Production when constructing [{Ranged} {Land}] units [in all cities]"
                 ]
   },
   {
