@@ -317,7 +317,7 @@
      "faith": 1,
      "uniques": [
                 "[+1 Faith] [in all cities] <with a garrison>",
-                "[+15]% City Strength from defensive buildings <with a garrison>",
+                "[+5]% City Strength from defensive buildings <with a garrison>",
                 "Unbuildable", 
                 "Only available <when religion is enabled>",
                 "Basic Religion", "Deific"
