@@ -631,7 +631,8 @@
      "name": "War God",//"God of War",
      "type": "Founder",
      "uniques": [
-                 "May buy [Cult of the Warrior] buildings for [10] [Faith] [in cities following this religion] at an increasing price ([5])"
+                 "May buy [Cult of the Warrior] buildings for [10] [Faith] [in cities following this religion] at an increasing price ([5])",
+                 "[+2 Production] from all [Barracks] buildings",
                 ]
   },
   {
