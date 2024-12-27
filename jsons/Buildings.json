@@ -317,7 +317,7 @@
      "faith": 1,
      "uniques": [
                 "[+1 Faith] [in all cities] <with a garrison>",
-                "[+5]% City Strength from defensive buildings <with a garrison>",
+                "[+3]% City Strength from defensive buildings <with a garrison>",
                 "Unbuildable", 
                 "Only available <when religion is enabled>",
                 "Basic Religion", "Deific"
@@ -405,7 +405,7 @@
                 "[+1 Faith] [in this city] <in cities with a [Kremlin]>",
 // IhatethisIhatethis*IhatethesSOMUCH!*
 //WRRRRY.gif
-                "[+10]% Strength for cities <when attacking>",
+                "[+5]% Strength for cities <when attacking>",
                 "Unbuildable", 
                 "Only available <when religion is enabled>",
                 "Basic Religion", "Deific"
